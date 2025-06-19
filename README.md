@@ -1,9 +1,10 @@
 <h2>
   Hi Everyone, I'm Esraa Mohammed
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="28" height="28" alt="android logo" style="vertical-align: middle;" />
 </h2>
 
-<h3>A passionate Android Developer</h3>
+<h3>A passionate Android Developer
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="28" height="28" alt="android logo" style="vertical-align: middle;" />
+</h3>
 
 ![Blue and Yellow Illustrative Digital Education Presentation](https://github.com/user-attachments/assets/62f23bf0-2d07-40d2-a32d-fb2955784f00)
 
