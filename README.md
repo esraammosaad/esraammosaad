@@ -1,8 +1,8 @@
 <h2>
-  Hi Everyone, I'm Esraa Mohammed
+  Hi everyone, I'm Esraa Mohammed
 </h2>
 
-<h3>A passionate Android Developer
+<h3>A Passionate Android Developer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="28" height="28" alt="android logo" style="vertical-align: middle;" />
 </h3>
 
